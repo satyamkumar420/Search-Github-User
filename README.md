@@ -1,4 +1,4 @@
-# Seach Github User
+# Search Github User
 
 ## [Demo](https://satyamkumar420.github.io/Search-Github-User/)
 
